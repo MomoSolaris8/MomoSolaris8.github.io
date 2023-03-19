@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "post"
+title: "Notice"
 ---
 
 I am a Computer Science Master Student from the LMU(munich). 

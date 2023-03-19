@@ -1,3 +1,3 @@
-https://momosolaris8.github.io/blog/
+https://momosolaris8.github.io
 ------------------------------
 My pesonal website
